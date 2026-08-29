@@ -4,7 +4,7 @@ A collection of hands-on Red Hat Enterprise Linux (RHEL) system
 administration labs covering core Linux administration, networking,
 storage, security, services, and troubleshooting.
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 - Red Hat Enterprise Linux (RHEL)
 - Bash / Linux CLI
@@ -18,23 +18,23 @@ storage, security, services, and troubleshooting.
 - Cron
 - ACL
 
-## 📚 Topics Covered
+##  Topics Covered
 
-### 👤 User & Group Management
+###  User & Group Management
 - User and group creation
 - UID/GID management
 - Password policies
 - sudo and sudoers configuration
 - Login restrictions
 
-### 🔐 Permissions & Access Control
+###  Permissions & Access Control
 - Standard Linux permissions
 - chmod / chown / chgrp
 - SUID, SGID and Sticky Bit
 - Access Control Lists (ACL)
 - Collaborative directories
 
-### 🌐 Linux Networking
+###  Linux Networking
 - Static and dynamic IP configuration
 - NetworkManager and nmcli
 - Default gateway configuration
@@ -42,7 +42,7 @@ storage, security, services, and troubleshooting.
 - Secondary IP addresses
 - Connectivity troubleshooting
 
-### 💾 Storage Management
+###  Storage Management
 - Disk partitioning
 - Filesystem creation
 - Mounting filesystems
@@ -52,7 +52,7 @@ storage, security, services, and troubleshooting.
 - Volume Groups (VG)
 - Logical Volumes (LV)
 
-### ⚙️ System Administration
+###  System Administration
 - Process management
 - systemd services
 - Cron jobs
@@ -60,7 +60,7 @@ storage, security, services, and troubleshooting.
 - Log analysis
 - File searching and archiving
 
-### 🌍 Web Server Administration
+###  Web Server Administration
 - Apache HTTP Server
 - Virtual Hosts
 - Port-based hosting
@@ -68,7 +68,7 @@ storage, security, services, and troubleshooting.
 - SELinux configuration
 - Web server log management
 
-### 🛡 Security
+###  Security
 - SSH configuration
 - Firewalld
 - SELinux
@@ -76,7 +76,7 @@ storage, security, services, and troubleshooting.
 - SUID/SGID management
 - ACL-based access control
 
-## 🎯 Objective
+##  Objective
 
 The objective of these labs is to develop practical Linux system
 administration skills through hands-on configuration,
